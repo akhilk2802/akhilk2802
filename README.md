@@ -25,4 +25,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilk2802&show_icons=true&locale=en&layout=compact" alt="akhilk2802" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilk2802&show_icons=true&locale=en" alt="akhilk2802" /></p>
