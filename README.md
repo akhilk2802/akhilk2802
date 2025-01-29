@@ -8,13 +8,13 @@
 
 - 🤝 I’m looking for help with **open source and cloud technologies**
 
-- 👨‍💻 All of my projects are available at [http://akhil-k.com](https://akhil-k.com)
+- 👨‍💻 All of my projects are available at [https://akhil-k.com](https://akhil-k.com)
 
 - 💬 Ask me about **full stack development**
 
 - 📫 How to reach me **kumbar.a@northeastern.edu**
 
-- 📄 Know about my experiences [http://akhil-k.com/resume](https://akhil-k.com/resume)
+- 📄 Know about my experiences [resume](https://akhil-k.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
