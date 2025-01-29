@@ -8,17 +8,18 @@
 
 - 🤝 I’m looking for help with **open source and cloud technologies**
 
-- 👨‍💻 All of my projects are available at [http://akhil-k.com](http://akhil-k.com)
+- 👨‍💻 All of my projects are available at [http://akhil-k.com](https://akhil-k.com)
 
 - 💬 Ask me about **full stack development**
 
 - 📫 How to reach me **kumbar.a@northeastern.edu**
 
-- 📄 Know about my experiences [https://bit.ly/resume-akhilkumbar](https://bit.ly/resume-akhilkumbar)
+- 📄 Know about my experiences [http://akhil-k.com/resume](https://akhil-k.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akhileshkumbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhileshkumbar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/akhil___k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhileshkumbar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
