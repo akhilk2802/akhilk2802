@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=akhilk2802)
-<h1 align="center">Hi 👋, I'm Akhilesh S Kumbar</h1>
+<h1 align="center">Hi 👋, I am Akhil</h1>
 <h3 align="center">Software Engineer at Palo Alto Networks, Santa Clara, CA</h3>
 
 - 🎓 **Master of Science in Software Engineering Systems** from Northeastern University
