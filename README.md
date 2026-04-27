@@ -1,16 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=akhilk2802)
 <h1 align="center">Hi 👋, I am Akhil</h1>
-<h3 align="center">Software Engineer at Palo Alto Networks, Santa Clara, CA</h3>
+<h3 align="center">Software Engineer • AI agents, distributed systems, LLM infra</h3>
 
 - 🎓 **Master of Science in Software Engineering Systems** from Northeastern University
 
-- 👯 I'm looking to collaborate on **innovative ideas**
+- 🔭 Exploring **LLM inference scaling, vector retrieval, and agent runtimes**
 
-- 🤝 I'm looking for help with **open source and cloud technologies**
+- 👯 Looking to collaborate on **LLM evals, agent runtimes, and developer tools for AI**
+
+- 🤝 Interested in **distributed inference, RAG infra, and async orchestration patterns**
 
 - 👨‍💻 All of my projects are available at [https://akhil-k.com/projects/](https://akhil-k.com/projects/)
 
-- 💬 Ask me about **full stack development**
+- 💬 Ask me about **distributed systems, RAG, and building AI products that work at scale**
 
 - 📫 How to reach me **akhilesh.skumbar@gmail.com**
 
