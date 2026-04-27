@@ -8,7 +8,7 @@
 
 - 🤝 I'm looking for help with **open source and cloud technologies**
 
-- 👨‍💻 All of my projects are available at [https://akhil-k.com](https://akhil-k.com)
+- 👨‍💻 All of my projects are available at [https://akhil-k.com/projects/](https://akhil-k.com/projects/)
 
 - 💬 Ask me about **full stack development**
 
